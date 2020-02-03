@@ -1,4 +1,0 @@
-[master d6cccf4] first commit: bug fix of Udacity's bookworm.ipynb.\nUdacity's tutorial on using Watson for QA is outdated and no longer compatible with ibm-watson. This committ replaces the use of watson-developer-cloud
- 4 files changed, 3621 insertions(+), 42 deletions(-)
- create mode 100644 .ipynb_checkpoints/bookworm-checkpoint.ipynb
- create mode 100644 __pycache__/helper.cpython-37.pyc
